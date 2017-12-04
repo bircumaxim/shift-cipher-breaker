@@ -22,7 +22,7 @@ And at the end we simply should get the solution with the most words existing.
 
 ## Let's see how we decrypt some messages :)
 
-Deadline
+#### Deadline
 
 AB ZNRL MAX WXTWEBGX YHK MABL ETUHKTMHKR BL MAX MPXGMBXMA HY WXVXFUXK B PHNEW EBDX 
 MH PBLA RHN ZHHW ENVD PBMA BM TGW ATOX T GBVX EBYX
@@ -30,7 +30,7 @@ MH PBLA RHN ZHHW ENVD PBMA BM TGW ATOX T GBVX EBYX
 Key:7 <br/>
 Message: hi guys the deadline for this laboratory is the twentieth of december i would like to wish you good luck with it and have a nice life
 
-Message 1
+#### Message 1
 
 WKHSWEC: WI XKWO SC WKHSWEC NOMSWEC WOBSNSEC, MYWWKXNOB YP DRO KBWSOC YP DRO XYBDR, 
 QOXOBKV YP DRO POVSH VOQSYXC, VYIKV COBFKXD DY DRO DBEO OWZOBYB, WKBMEC KEBOVSEC. PKDROB DY K 
@@ -40,7 +40,7 @@ Key:-10 <br/>
 Message: maximus my name is maximus decimus meridius commander of the armies of the north general of the felix legions loyal servant to the true emperor marcus aurelius father to a murdered son husband to a murdered wife and i will have my vengeance in this life or the next
 
 
-Message 2
+#### Message 2
 
 XOXKR IETG BL MH UX VHGLBWXKXW, XOXKR XQIXWBXGM MKBXW TGW XOXKR FXMAHW MTDXG UXYHKX 
 FTMMXKL TKX UKHNZAM MH MABL ETLM XQMKXFBMR. ZHHW HYYBVXKL WXVEBGX ZXGXKTE XGZTZXFXGML 
@@ -52,7 +52,7 @@ Message: every plan is to be considered every expedient tried and every method t
 
 
 
-Message 3
+#### Message 3
 
 RD QTAJ KTW YMJ WTRFS JRUNWJ NX ZSIJSNFGQD LWJFYJW YMFS KTW RDXJQK. YMJ LWJFYJXY 
 JRUNWJ JAJW YT MFAJ JCNXYJI. N UQJILJ RD JYJWSFQ XJWANYZIJ FSI N FR KTWJAJW GTZSI 
