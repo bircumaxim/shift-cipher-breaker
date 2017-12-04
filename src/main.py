@@ -25,5 +25,5 @@ def decrypt_with_dictionary_hack(cryptogram):
     return sorted(decrypted_messages, key=operator.itemgetter(2), reverse=True)
 
 
-decryptions = decrypt_with_frequency_analyses(deadline_cryptogram)
+decryptions = decrypt_with_frequency_analyses(cryptogram_3)
 print("Key:{key} \nMessage: {content}".format(key=decryptions[0].key, content=decryptions[0].content))
